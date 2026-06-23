@@ -11,8 +11,9 @@ Recommended setup:
 5. Select the `main` branch and `/ (root)`, then save.
 6. Wait for GitHub Pages to publish the site.
 
-The privacy-policy URL will normally be:
+Published URLs:
 
-`https://YOUR_GITHUB_USERNAME.github.io/replyloom-site/privacy.html`
+- Website: `https://iruochen.github.io/replyloom-site/`
+- Privacy policy: `https://iruochen.github.io/replyloom-site/privacy.html`
 
 Open that URL in a private/incognito browser window before entering it in the Chrome Web Store dashboard.
